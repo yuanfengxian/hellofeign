@@ -1,0 +1,5 @@
+child\view\service\ribbon\pojo\Product.class
+child\view\service\ribbon\client\ProductRibbonClient.class
+child\view\service\ribbon\RibbonApp.class
+child\view\service\ribbon\service\DataServiceRibbon.class
+child\view\service\ribbon\controller\ChildRibbonController.class

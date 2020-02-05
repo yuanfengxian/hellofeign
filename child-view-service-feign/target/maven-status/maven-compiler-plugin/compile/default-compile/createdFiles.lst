@@ -1,0 +1,5 @@
+child\view\service\feign\client\ChildProductFeign.class
+child\view\service\feign\controller\FeignController.class
+child\view\service\feign\pojo\Product.class
+child\view\service\feign\service\FeignService.class
+child\view\service\feign\FeignApp.class
